@@ -1,2 +1,3 @@
-# miniLSM
-A key-value storage on log-structure-merge tree
+# mini-lsm-starter
+
+Starter code for Mini-LSM.
